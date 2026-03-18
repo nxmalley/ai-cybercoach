@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI CyberCoach
 
-## Getting Started
+## Overview
+AI CyberCoach is a modern web application designed to support individuals pursuing a career in cybersecurity. The platform focuses on delivering a structured, user-friendly experience for learning and growth in the field.
 
-First, run the development server:
+This project was built to demonstrate front-end development skills, responsive design, and modern deployment workflows using current industry tools.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
+- Next.js  
+- Tailwind CSS  
+- VS Code  
+- Git & GitHub  
+- Vercel  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Features
+- Clean, modern user interface  
+- Responsive layout across devices  
+- Component-based architecture  
+- Structured navigation and landing page  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Purpose
+The goal of this project is to:
+- Apply modern web development practices  
+- Build a production-ready interface  
+- Gain experience with deployment pipelines  
+- Strengthen version control workflows  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Status
+🚧 Development Paused
 
-## Deploy on Vercel
+This project is currently on hold while I focus on advancing my technical skills in cybersecurity and cloud technologies. Development may resume in the future.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Lessons Learned
+- Working with Next.js and modern React patterns  
+- Efficient styling using Tailwind CSS  
+- Deploying applications with Vercel  
+- Managing code with Git and GitHub  
+
+---
+
+## Future Improvements
+- Backend/API integration  
+- Enhanced interactivity  
+- Expanded application functionality  
+- AI-driven features  
+
+---
+
+## Author
+Nicholas Malley
